@@ -1,7 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://sunny-day.onrender.com",
-  "homepage": "/build",
+  "proxy": "http://localhost:9000",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
