@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Deluxe laptop",
+
+    "price": "250000",
+    "description": "Browse through our collection of awesome laptop images. Product shots of laptops in every situation whether in the office or at home. You'll find pictures ...",
+    "ratings": "4.5",
+    "images": [
+      {
+        "public_id": "laptop_mshhmf",
+        "url": "https://res.cloudinary.com/deluxe-bluz/image/upload/v1646150033/fuud-fair/DELUXE-SHOP/laptop_mshhmf.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 10,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "Deluxe Camera",
+
+    "price": "100000",
+    "description": "Camera lens with lense reflections. Camera icon, flat photo camera vector isolated. Modern simple snapshot photography sign",
+    "ratings": "4.3",
+    "images": [
+      {
+        "public_id": "camera-260nw-610909205_skkjue",
+        "url": "https://res.cloudinary.com/deluxe-bluz/image/upload/v1646150499/fuud-fair/DELUXE-SHOP/camera-260nw-610909205_skkjue.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Amazon",
+    "stock": 20,
+    "numOfReviews": 42,
+    "reviews": []
+  },
+  {
+    "name": "Deluxe Food",
+
+    "price": "1000",
+    "description": "Search from 2313 Nigerian Food stock photos, pictures and royalty-free images from iStock. Find high-quality stock photos that you won't find anywhere else.",
+    "ratings": "4.0",
+    "images": [
+      {
+        "public_id": "istockphoto-1127727388-612x612_tckqew",
+        "url": "https://res.cloudinary.com/deluxe-bluz/image/upload/v1646150868/fuud-fair/DELUXE-SHOP/istockphoto-1127727388-612x612_tckqew.jpg"
+      }
+    ],
+    "category": "Food",
+    "seller": "Deluxe Kitchen",
+    "stock": 12,
+    "numOfReviews": 30,
+    "reviews": []
+  },
+  {
+    "name": "Deluxe Shoe",
+
+    "price": "18000",
+    "description": "Search from 2313 Nigerian Food stock photos, pictures and royalty-free images from iStock. Find high-quality stock photos that you won't find anywhere else.",
+    "ratings": "4.4",
+    "images": [
+      {
+        "public_id": "download_8_xhcopl",
+        "url": "https://res.cloudinary.com/deluxe-bluz/image/upload/v1646151263/fuud-fair/DELUXE-SHOP/download_8_xhcopl.jpg"
+      }
+    ],
+    "category": "Cloths/Shoes",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 20,
+    "reviews": []
+  },
+  {
+    "name": "Rachit-tank-2cFZ_FB08UM-unsplash",
+
+    "price": "18600",
+    "description": "Search from 2313 Nigerian Food stock photos, pictures and royalty-free images from iStock. Find high-quality stock photos that you won't find anywhere else.",
+    "ratings": "5.4",
+    "images": [
+      {
+        "public_id": "rachit-tank-2cFZ_FB08UM-unsplash_t5czx5",
+        "url": "https://res.cloudinary.com/deluxe-bluz/image/upload/v1648478784/fuud-fair/DELUXE-SHOP/rachit-tank-2cFZ_FB08UM-unsplash_t5czx5.jpg"
+      }
+    ],
+    "category": "Cloths/Shoes",
+    "seller": "Ebay",
+    "stock": 70,
+    "numOfReviews": 40,
+    "reviews": []
+  },
+  {
+    "name": "C-d-x-PDX_a_82obo-unsplash",
+
+    "price": "18000",
+    "description": "Search from 2313 Nigerian Food stock photos, pictures and royalty-free images from iStock. Find high-quality stock photos that you won't find anywhere else.",
+    "ratings": "4.3",
+    "images": [
+      {
+        "public_id": "c-d-x-PDX_a_82obo-unsplash_jfwvuq",
+        "url": "https://res.cloudinary.com/deluxe-bluz/image/upload/v1648478803/fuud-fair/DELUXE-SHOP/c-d-x-PDX_a_82obo-unsplash_jfwvuq.jpg"
+      }
+    ],
+    "category": "Cloths/Shoes",
+    "seller": "Ebay",
+    "stock": 56,
+    "numOfReviews": 50,
+    "reviews": []
+  },
+  {
+    "name": "Barrett-ward-P44RIGl9V54-unsplash",
+
+    "price": "18500",
+    "description": "Search from 2313 Nigerian Food stock photos, pictures and royalty-free images from iStock. Find high-quality stock photos that you won't find anywhere else.",
+    "ratings": "3.4",
+    "images": [
+      {
+        "public_id": "barrett-ward-P44RIGl9V54-unsplash_gpsdey",
+        "url": "https://res.cloudinary.com/deluxe-bluz/image/upload/v1648478813/fuud-fair/DELUXE-SHOP/barrett-ward-P44RIGl9V54-unsplash_gpsdey.jpg"
+      }
+    ],
+    "category": "Cloths/Shoes",
+    "seller": "Ebay",
+    "stock": 59,
+    "numOfReviews": 230,
+    "reviews": []
+  },
+  {
+    "name": "Deanna-alys-6LBBOwkPzyQ-unsplash",
+
+    "price": "18034",
+    "description": "Search from 2313 Nigerian Food stock photos, pictures and royalty-free images from iStock. Find high-quality stock photos that you won't find anywhere else.",
+    "ratings": "4.7",
+    "images": [
+      {
+        "public_id": "deanna-alys-6LBBOwkPzyQ-unsplash",
+        "url": "https://res.cloudinary.com/deluxe-bluz/image/upload/v1648478826/fuud-fair/DELUXE-SHOP/deanna-alys-6LBBOwkPzyQ-unsplash_inu5oe.jpg"
+      }
+    ],
+    "category": "Beauty/Health",
+    "seller": "Dior",
+    "stock": 500,
+    "numOfReviews": 320,
+    "reviews": []
+  },
+  {
+    "name": "Mikkel-bech-yjAFnkLtKY0-unsplash",
+
+    "price": "14000",
+    "description": "Search from 2313 Nigerian Food stock photos, pictures and royalty-free images from iStock. Find high-quality stock photos that you won't find anywhere else.",
+    "ratings": "3.4",
+    "images": [
+      {
+        "public_id": "mikkel-bech-yjAFnkLtKY0-unsplash_za00hk",
+        "url": "https://res.cloudinary.com/deluxe-bluz/image/upload/v1648478836/fuud-fair/DELUXE-SHOP/mikkel-bech-yjAFnkLtKY0-unsplash_za00hk.jpg"
+      }
+    ],
+    "category": "Outdoor",
+    "seller": "Bluz",
+    "stock": 55,
+    "numOfReviews": 120,
+    "reviews": []
+  },
+  {
+    "name": "Giorgio-trovato-K62u25Jk6vo-unsplash_aid1ok",
+
+    "price": "18000",
+    "description": "Search from 2313 Nigerian Food stock photos, pictures and royalty-free images from iStock. Find high-quality stock photos that you won't find anywhere else.",
+    "ratings": "4.4",
+    "images": [
+      {
+        "public_id": "giorgio-trovato-K62u25Jk6vo-unsplash_aid1ok",
+        "url": "https://res.cloudinary.com/deluxe-bluz/image/upload/v1648478848/fuud-fair/DELUXE-SHOP/giorgio-trovato-K62u25Jk6vo-unsplash_aid1ok.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 20,
+    "reviews": []
+  },
+  {
+    "name": "Rodion-kutsaev-tras3_pvEic-unsplash",
+
+    "price": "13000",
+    "description": "Search from 2313 Nigerian Food stock photos, pictures and royalty-free images from iStock. Find high-quality stock photos that you won't find anywhere else.",
+    "ratings": "2.4",
+    "images": [
+      {
+        "public_id": "rodion-kutsaev-tras3_pvEic-unsplash_zsljx7",
+        "url": "https://res.cloudinary.com/deluxe-bluz/image/upload/v1648478861/fuud-fair/DELUXE-SHOP/rodion-kutsaev-tras3_pvEic-unsplash_zsljx7.jpg"
+      }
+    ],
+    "category": "Home",
+    "seller": "Deluxe-Buz",
+    "stock": 58,
+    "numOfReviews": 320,
+    "reviews": []
+  },
+  {
+    "name": "Rodion-kutsaev-6W8H4puOJB0-unsplash",
+
+    "price": "12000",
+    "description": "Search from 2313 Nigerian Food stock photos, pictures and royalty-free images from iStock. Find high-quality stock photos that you won't find anywhere else.",
+    "ratings": "2.4",
+    "images": [
+      {
+        "public_id": "rodion-kutsaev-tras3_pvEic-unsplash_zsljx7",
+        "url": "https://res.cloudinary.com/deluxe-bluz/image/upload/v1648478861/fuud-fair/DELUXE-SHOP/rodion-kutsaev-tras3_pvEic-unsplash_zsljx7.jpg"
+      }
+    ],
+    "category": "Cloths/Shoes",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 20,
+    "reviews": []
+  }
+]
