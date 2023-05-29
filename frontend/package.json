@@ -3,6 +3,7 @@
   "proxy": "https://sunny-day.onrender.com",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/build",
   "dependencies": {
     "@stripe/react-stripe-js": "^1.10.0",
     "@stripe/stripe-js": "^1.34.0",
